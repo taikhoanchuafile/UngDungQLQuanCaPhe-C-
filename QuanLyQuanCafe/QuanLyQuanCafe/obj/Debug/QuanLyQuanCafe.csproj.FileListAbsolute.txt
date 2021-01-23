@@ -1,0 +1,42 @@
+C:\Users\Dell\Desktop\Dữ liệu\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\Dell\Desktop\Dữ liệu\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\Dell\Desktop\Dữ liệu\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\Dell\Desktop\Dữ liệu\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Dữ liệu\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.flogin.resources
+C:\Users\Dell\Desktop\Dữ liệu\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\Dell\Desktop\Dữ liệu\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\Dữ liệu\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\Dell\Desktop\Dữ liệu\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\Dell\Desktop\Dữ liệu\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+C:\Users\Dell\Desktop\Dữ liệu\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\Dell\Desktop\Dữ liệu\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+C:\Users\Dell\Desktop\Dữ liệu\Bài Project giữa kì\Lập trình Windows\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\Dell\Desktop\Dữ liệu\Bài Project giữa kì\Lập trình Windows\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\Dell\Desktop\Dữ liệu\Bài Project giữa kì\Lập trình Windows\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\Dell\Desktop\Dữ liệu\Bài Project giữa kì\Lập trình Windows\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\Dell\Desktop\Dữ liệu\Bài Project giữa kì\Lập trình Windows\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+C:\Users\Dell\Desktop\Dữ liệu\Bài Project giữa kì\Lập trình Windows\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.flogin.resources
+C:\Users\Dell\Desktop\Dữ liệu\Bài Project giữa kì\Lập trình Windows\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+C:\Users\Dell\Desktop\Dữ liệu\Bài Project giữa kì\Lập trình Windows\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\Dell\Desktop\Dữ liệu\Bài Project giữa kì\Lập trình Windows\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\Dữ liệu\Bài Project giữa kì\Lập trình Windows\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\Dell\Desktop\Dữ liệu\Bài Project giữa kì\Lập trình Windows\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\Dell\Desktop\Dữ liệu\Bài Project giữa kì\Lập trình Windows\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Dữ liệu\Bài Project giữa kì\Lập trình Windows-1724801030172\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\Dell\Desktop\Dữ liệu\Bài Project giữa kì\Lập trình Windows-1724801030172\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\Dell\Desktop\Dữ liệu\Bài Project giữa kì\Lập trình Windows-1724801030172\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\Dell\Desktop\tài liệu 1\Bài Project giữa kì\Lập trình Windows-1724801030172\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\Dell\Desktop\tài liệu 1\Bài Project giữa kì\Lập trình Windows-1724801030172\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\Dell\Desktop\tài liệu 1\Bài Project giữa kì\Lập trình Windows-1724801030172\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\Dell\Desktop\file\kientrucPM\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\Dell\Desktop\file\kientrucPM\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\Dell\Desktop\file\kientrucPM\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\Dell\Desktop\file\kientrucPM\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\Dell\Desktop\file\kientrucPM\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\Dell\Desktop\file\kientrucPM\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\file\kientrucPM\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\Dell\Desktop\file\kientrucPM\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+C:\Users\Dell\Desktop\file\kientrucPM\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.flogin.resources
+C:\Users\Dell\Desktop\file\kientrucPM\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+C:\Users\Dell\Desktop\file\kientrucPM\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\Dell\Desktop\file\kientrucPM\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
